@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-Hi, I’m Julian. I am a software engineer with a diverse background, being half Polish and half Japanese. Currently, I reside in the vibrant city of Tokyo. I work at Rakuten, one of Japan's leading tech companies, where I specialize as a backend engineer.
+Hi, I’m Julian. I am a software engineer with a diverse background, being half Polish and half Japanese. Currently, I work at Rakuten, one of Japan's leading tech companies, where I specialize as a backend engineer.
 
 ---
 
